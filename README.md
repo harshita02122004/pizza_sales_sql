@@ -1,10 +1,6 @@
 # pizza_sales_sql
 SQL project containing basic, intermediate, and advanced queries for analyzing a pizza sales dataset using JOINs, aggregate functions, CTEs, subqueries, and window functions.
 
-
-## Overview
-This project analyzes a pizza sales dataset using SQL. The objective is to solve business-related questions and extract meaningful insights from sales data using various SQL concepts.
-
 ## SQL Concepts Used
 - JOINs
 - Aggregate Functions
